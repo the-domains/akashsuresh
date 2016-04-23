@@ -1,0 +1,28 @@
+name: "Akash Suresh's Technology Portal"
+favicon: null
+layout_spectrum: 0.5405069135595113
+typography_spectrum: 0.23660068935714662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8217682200483978
+  lightness: 0.435479415114969
+  saturation: 0.7606566078029573
+  rhythmicContrast: 0.6507538410369307
+purpose: []
